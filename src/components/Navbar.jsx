@@ -1,5 +1,5 @@
 import searchIcon from "../assets/icon/searchIcon.svg";
-import cartIcon from "../assets/icon/carticon.svg";
+import cartIcon from "../assets/icon/cartIcon.svg";
 import menuIcon from "../assets/icon/menuIcon.svg";
 import backIcon from "../assets/icon/backIcon.svg";
 
